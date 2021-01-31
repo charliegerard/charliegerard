@@ -4,8 +4,6 @@ _Pronouns: She/Her_
 
 I'm currently a Senior frontend developer @Netlify, where I work on the UI for the [Netlify app](https://app.netlify.com).
 
-Previously, I worked at Atlassian, ThoughtWorks and the NYT.
-
 I am passionate about human-computer interaction so, on my personal time, I build lots of interactive prototypes using machine learning, hardware, creative coding, AR/VR, most of it in JavaScript!
 
 You can check all my projects on [my website](https://charliegerard.dev).
