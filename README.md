@@ -2,7 +2,7 @@
 
 _Pronouns: She/Her_
 
-I'm currently a Staff full stack engineer @Socket.
+I'm currently a Senior research engineer @CrowdStrike.
 
 I am passionate about human-computer interaction so, on my personal time, I build lots of interactive prototypes using machine learning, hardware, creative coding, AR/VR, most of it in JavaScript!
 
